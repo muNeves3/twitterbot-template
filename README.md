@@ -12,4 +12,3 @@
 
 <a href="https://github.com/EffEmPee/OdioBot">`https://github.com/EffEmPee/OdioBot`</a>
 
-<img src="1.png">
